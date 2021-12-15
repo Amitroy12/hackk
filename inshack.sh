@@ -1,4 +1,4 @@
-C #!/bin/bash
+# #!/bin/bash
 # Inshackle_v2
 # Recoded by: Anshu Saini
 # https://github.com/anshu189/inshackle_v2
