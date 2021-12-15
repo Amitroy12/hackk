@@ -36,7 +36,7 @@ printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by c
 
 
 
-login_user() {bash inshackle_v2.sh
+#login_user() {bash inshackle_v2.sh
 
 
 
